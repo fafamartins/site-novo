@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    background-color: #283044;
+}
+
+h1 {
+    color: white;
+}
+
+main {
+    background-color: #f4b860;
+    border: 2px solid rgba(0, 0, 0, 0.021);
+    width: 300px;
+    height: 300px;
+}
